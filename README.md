@@ -1,0 +1,1 @@
+# substrate-pallet-multi-assets-reasury
